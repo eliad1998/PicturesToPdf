@@ -45,5 +45,5 @@ def main():
 	chdir(path)
 
 	imagelist = listdir(path) # get list of all images
-
+*
 
